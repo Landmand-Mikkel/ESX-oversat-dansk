@@ -27,10 +27,10 @@ Credits:
 
 Esx base: https://github.com/zzazuu/ESXBase-server
 
-Discord Landmand Mikkel#3360
+Discord: Landmand Mikkel#3360
 
-Essentialmode https://essentialmode.com
+Essentialmode: https://essentialmode.com
 
-ESX https://github.com/ESX-Org
+ESX: https://github.com/ESX-Org
 
-Kashzin https://github.com/KASHZIN/kashacters
+Kashzin: https://github.com/KASHZIN/kashacters
