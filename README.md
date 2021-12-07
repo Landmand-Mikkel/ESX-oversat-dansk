@@ -25,7 +25,11 @@ Oplever i noget der ikke er oversat så skriv til mig over discord eller lav en 
 
 Credits: 
 Esx base: https://github.com/zzazuu/ESXBase-server
+
 Discord Landmand Mikkel#3360
+
 Essentialmode https://essentialmode.com
+
 ESX https://github.com/ESX-Org
+
 Kashzin https://github.com/KASHZIN/kashacters
