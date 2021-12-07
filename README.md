@@ -24,3 +24,9 @@ I skal vide at jeg ikke yder support på oversætningen, så hvis der er fejl ro
 Oplever i noget der ikke er oversat så skriv til mig over discord eller lav en commit som jeg godkender :)
 
 Esx base: https://github.com/zzazuu/ESXBase-server
+
+Credits: 
+Discord Landmand Mikkel#3360
+Essentialmode https://essentialmode.com
+ESX https://github.com/ESX-Org
+Kashzin https://github.com/KASHZIN/kashacters
