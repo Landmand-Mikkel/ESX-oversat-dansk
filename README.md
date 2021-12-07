@@ -24,6 +24,7 @@ I skal vide at jeg ikke yder support på oversætningen, så hvis der er fejl ro
 Oplever i noget der ikke er oversat så skriv til mig over discord eller lav en commit som jeg godkender :)
 
 Credits: 
+
 Esx base: https://github.com/zzazuu/ESXBase-server
 
 Discord Landmand Mikkel#3360
