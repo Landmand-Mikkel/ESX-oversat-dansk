@@ -21,6 +21,8 @@ Vigtig info:
 
 I skal vide at jeg ikke yder support på oversætningen, så hvis der er fejl roder i selv med det :) (Hvis i finder en bug i kan fikse så skriv endelig til mig over discord eller anmod om commit)
 
+Jeg tager ikke ansvar for hvad i downloader.
+
 Oplever i noget der ikke er oversat så skriv til mig over discord eller lav en commit som jeg godkender :)
 
 Credits: 
